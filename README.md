@@ -62,49 +62,6 @@ HORARIO/
 └── README.md
 ```
 
-## Como abrir no computador
-
-1. Baixe ou clone este repositório.
-2. Abra a pasta no VS Code.
-3. Abra o arquivo `index.html` no navegador.
-
-Também é possível usar a extensão **Live Server** no VS Code, caso você prefira visualizar o site com recarregamento automático.
-
-## Como publicar no GitHub pelo VS Code
-
-1. Abra a aba **Source Control** no VS Code.
-2. Se aparecer a opção **Initialize Repository**, clique nela.
-3. Escreva uma mensagem de commit, por exemplo:
-
-```text
-Primeira versão do mapa de salas
-```
-
-4. Clique em **Commit**.
-5. Clique em **Publish Branch** ou **Publish to GitHub**.
-6. Escolha um nome para o repositório.
-7. Envie os arquivos para o GitHub.
-
-## Como hospedar com GitHub Pages
-
-Depois que o projeto estiver no GitHub:
-
-1. Abra o repositório no GitHub.
-2. Entre em **Settings**.
-3. Clique em **Pages**.
-4. Em **Source**, escolha **Deploy from a branch**.
-5. Em **Branch**, selecione `main`.
-6. Em pasta, selecione `/ (root)`.
-7. Clique em **Save**.
-
-O site ficará disponível em um endereço parecido com:
-
-```text
-https://seu-usuario.github.io/nome-do-repositorio/
-```
-
-O GitHub pode levar alguns minutos para publicar o site depois da configuração.
-
 ## Autor
 
-Projeto desenvolvido para facilitar a consulta das salas do 2º ano de Informática.
+Projeto desenvolvido por Theus24(eu) para uso pessoal em prol de fazer consulta das salas do 2º ano de Informática da minah escola. Você pode alterar o projeto e usar devido sua realidade :D ...
