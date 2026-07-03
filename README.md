@@ -16,6 +16,7 @@
 ## Sobre o projeto
 
 Este projeto foi criado para consultar rapidamente a sala do **2º ano de Informática** de acordo com o dia da semana e a aula atual.
+Dias de Aulas na quadra não são informados, logo são exibidas na B110.
 
 Além de mostrar a sala, o site também informa o significado de cada uma:
 
@@ -56,7 +57,7 @@ Além de mostrar a sala, o site também informa o significado de cada uma:
 ```text
 HORARIO/
 ├── imgicon/
-│   └── download (4).webp
+│   └── download(4).webp
 ├── index.html
 ├── styles.css
 └── README.md
